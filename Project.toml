@@ -3,6 +3,9 @@ uuid = "34d8e4f4-d261-40df-95b6-c44a1cf59619"
 authors = ["ajstaat <alst0620@colorado.edu> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+
 [compat]
 julia = "1.6.7"
 
